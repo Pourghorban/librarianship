@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-222.3345.118">
+    <data-source name="Persistence/Hibernate" uuid="995a3b11-6542-497f-bf2b-87015f053f68">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL" exact-version="0" />
+      <auth-provider>ms-sso</auth-provider>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" negative="1">
+            <node kind="schema" negative="1" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
