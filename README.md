@@ -12,8 +12,8 @@
 
 1. مخزن را کلون کنید:
     ```bash
-    git clone https://github.com/yourusername/.git
-    cd 
+    git clone https://github.com/yourusername/librarianship.git
+    cd librarianship
     ```
 
 2. وابستگی‌ها را نصب کنید و پروژه را بیلد کنید:
