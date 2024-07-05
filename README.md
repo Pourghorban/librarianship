@@ -32,5 +32,5 @@
 
 مستندات کامل APIها در دایرکتوری [docs](./docs) قرار دارد. فایل‌های مرتبط:
 
-- [API کاربران](./docs/api_users.md)
-- [API کتاب‌ها](./docs/api_books.md)
+- [API کاربران](Docs/api_users.md)
+- [API کتاب‌ها](Docs/api_books.md)
